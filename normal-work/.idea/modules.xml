@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/root/root.iml" filepath="$PROJECT_DIR$/root/root.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tagging/tagging.iml" filepath="$PROJECT_DIR$/tagging/tagging.iml" />
-    </modules>
-  </component>
-</project>
